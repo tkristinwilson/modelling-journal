@@ -18,4 +18,4 @@ A secondary point is that these components affect each other.
 
 ## Supporting Tools
 
-Support tools (stack in the middle) is a categorisation of the social-ecological systems research literature. Much research has centered on case studies and there is a need to establish design patterns, design principles, and theory in order to apply knowledge more widely. This is a challenge for CAS knowledge as context is important, as is how a CAS is defined.
+Supporting tools (stack in the middle) is a categorisation of the social-ecological systems research literature. Much research has centered on case studies and there is a need to establish design patterns, design principles, and theory in order to apply knowledge more widely. This is a challenge for CAS knowledge as context is important, as is how a CAS is defined.
