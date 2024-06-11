@@ -6,7 +6,7 @@ This is the first diagram I created when starting to learn about social-ecologic
 
 ## System Understanding
 
-Social-ecological systems research is broadly concerned with understanding interactions between human and nature and sees these interactions through the lens of complex adaptive systems (CAS, circle on the left). I categorise the features of CAS into constraining features (boundaries and context), structural features (components and interactions), and behavioural features (how components behave). 
+Social-ecological systems research is broadly concerned with understanding interactions between human and nature and sees these interactions through the lens of complex adaptive systems (CAS, circle on the right). I categorise the features of CAS into constraining features (boundaries and context), structural features (components and interactions), and behavioural features (how components behave). 
 
 The starting point is generally identifying primary interactions (aka: processes or action situations) and components (aka: agents or entities), the things which take part in processes.
 
